@@ -5,3 +5,6 @@ Notice: This app is primarily vibe-coded (when it comes to the backend) and is n
 
 Required Setup Shortcut:
 * https://www.icloud.com/shortcuts/efba4fca21ee4d18a2cc9b86b1a36acb
+
+# Troubleshooting
+* If you are having trouble with the **Complete Setup** button being greyed out, make sure that **Fast App Termination** toggle in **Settings > Developer** is disabled.
